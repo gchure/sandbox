@@ -1,0 +1,14 @@
+*.pdf
+*.eps
+*.fcs
+*.tif
+*.jpg
+*ipynb-checkpoints
+*.DS_store
+*.out
+*.log
+__pycache__
+*.aux
+*.bbl
+*.xml
+*.blg
